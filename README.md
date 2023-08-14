@@ -18,6 +18,6 @@ This repository contains information about the repositories maintained by [@lach
 
 - 🟢 **Actively maintained**: Immediate priority (will support as available)
 - 🔵 **Passively maintained**: Background priority — as the need or opportunity arises (will support as available)
-- 🔵 **Archived**: No longer maintained (no support).
+- 🔴 **Archived**: No longer maintained (no support).
 
 > Last Updated: 14 August, 2023
