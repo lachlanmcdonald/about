@@ -64,7 +64,7 @@ const OUTPUT = [
 	...TABLE,
 	'',
 	'- 🟢 **Actively maintained**: Immediate priority (will support as available)',
-	'- 🔵 **Passively maintained**: Lower priority — as the need or opportunity arises (will support as available)',
+	'- 🔵 **Passively maintained**: Lower priority — maintained as needed or when opportunity arises (minimal support)',
 	'- 🔴 **Archived**: No longer maintained (no support)',
 	'',
 	`> Last Updated: ${new Date().toISOString()}`,

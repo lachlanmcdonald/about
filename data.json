@@ -20,7 +20,7 @@
 	{
 		"title": "mock-storagearea",
 		"url": "https://github.com/lachlanmcdonald/mock-storagearea",
-		"status": "🟢 Actively maintained"
+		"status": "🔵 Beta (development paused)"
 	},
 	{
 		"title": "magicavoxel-shaders",
@@ -47,7 +47,7 @@
 	{
 		"title": "postcss-filter-rules",
 		"url": "https://github.com/lachlanmcdonald/postcss-filter-rules",
-		"status": "🔵 No further updates planned",
+		"status": "🔴 Archived",
 		"npm": "postcss-filter-rules"
 	},
 	{

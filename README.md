@@ -7,21 +7,21 @@ This repository contains information about the repositories maintained by [@lach
 | [gulp-dartsass][link-0] | 🟢 Actively maintained | [![badge-0]][npm-0] |
 | [gulp-svgo][link-1] | 🟢 Actively maintained | [![badge-1]][npm-1] |
 | [mock-storage][link-2] | 🟢 Actively maintained | [![badge-2]][npm-2] |
-| [mock-storagearea][link-3] | 🟢 Actively maintained |  |
+| [mock-storagearea][link-3] | 🔵 Beta (development paused) |  |
 | [magicavoxel-shaders][link-4] | 🔵 Passively maintained |  |
 | [hackernews-user-tags][link-5] | 🔵 Passively maintained |  |
 | [factorio-mod-thicker-lines][link-6] | 🔵 Passively maintained | ![badge-6] |
-| [postcss-filter-rules][link-7] | 🔵 No further updates planned | [![badge-7]][npm-7] |
+| [postcss-filter-rules][link-7] | 🔴 Archived | [![badge-7]][npm-7] |
 | [saxicon][link-8] | 🔴 Archived | [![badge-8]][npm-8] |
 | [grunt-saxicon][link-9] | 🔴 Archived | [![badge-9]][npm-9] |
 | [internode-py][link-10] | 🔴 Archived |  |
 | [middleman-redcarpet-shortcodes][link-11] | 🔴 Archived |  |
 
 - 🟢 **Actively maintained**: Immediate priority (will support as available)
-- 🔵 **Passively maintained**: Lower priority — as the need or opportunity arises (will support as available)
+- 🔵 **Passively maintained**: Lower priority — maintained as needed or when opportunity arises (minimal support)
 - 🔴 **Archived**: No longer maintained (no support)
 
-> Last Updated: 2023-08-30T14:32:36.211Z
+> Last Updated: 2023-12-21T13:39:01.360Z
 
 [badge-0]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fregistry.npmjs.org%2F%40lmcd%2Fgulp-dartsass%2Flatest&query=version&label=npm+package&labelColor=%23696969&color=lightgreen
 [npm-0]: https://www.npmjs.com/package/@lmcd/gulp-dartsass
